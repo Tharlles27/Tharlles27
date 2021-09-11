@@ -19,7 +19,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right"  width="150px" height="120px" alt="Rafa-yoda" src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif">
+  <img align="right"  width="150px" height="120px" alt="Rafa-yoda" src="https://avatars1.githubusercontent.com/u/4710865?v=4">
 </div>
   
   ##  
