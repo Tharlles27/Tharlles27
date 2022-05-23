@@ -19,7 +19,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right"  width="150px" height="120px" alt="Rafa-yoda" src="https://cdn.pixabay.com/photo/2019/05/10/18/21/thanos-4194122_960_720.png">
+  <img align="right"  width="130px" height="120px" alt="Tharlles-yoda" src="https://cdn.pixabay.com/photo/2019/05/10/18/21/thanos-4194122_960_720.png">
 </div>
   
   ##  
